@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Pedro E. Rivera-Cardona        
 
 # Your name to show in the footer
-author: Some Person
+author: Pedro E. Rivera-Cardona
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "/assets/Rivera_Pedro_CV.pdf"
+  #About Me: "aboutme"
+  #Resources:
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -42,7 +43,7 @@ social-network-links:
   email: "someone@example.com"
   facebook: deanattali
   github: daattali
-  twitter: daattali
+  twitter: pedro_physics
   patreon: DeanAttali
   youtube: c/daattali
 #  reddit: yourname
