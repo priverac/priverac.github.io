@@ -38,8 +38,7 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Illinois Urbana-Champaign
-      year: 2023
-  courses:
+      year: Ongoing
     - course: BSc in Physics
       institution: University of Puerto Rico, Mayaguez
       year: 2022
