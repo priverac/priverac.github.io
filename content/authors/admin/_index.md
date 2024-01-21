@@ -38,8 +38,8 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Illinois Urbana-Champaign
-      Advisors: Professors Jessie Shelton, Yonatan Kahn
-      year: Ongoing
+      year: Currently
+  courses:
     - course: BSc in Physics
       institution: University of Puerto Rico, Mayaguez
       year: 2022
